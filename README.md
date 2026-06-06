@@ -228,3 +228,6 @@ MySQL
 MVC Architecture
 DAO & DTO Pattern
 Web Application Development
+📜 License
+
+This project is developed for educational and learning purposes.
